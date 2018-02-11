@@ -1,0 +1,46 @@
+﻿{
+  "id": "845a4538-17d4-4a9e-8ede-0e7d2daba88e",
+  "addIns": [],
+  "allowPublicClient": null,
+  "appId": "dc8ffc16-19c8-495a-bcd9-2bba790b32ce",
+  "createdDateTime": "2017-03-16T19:59:58Z",
+  "identifierUris": [],
+  "informationalUrls": {
+    "termsOfService": null,
+    "privacy": null
+  },
+  "keyCredentials": [],
+  "logoUrl": "https://secure.aadcdn.microsoftonline-p.com/dbd5a2dd-otrskziqqxxsssdghj7jjfrifoprytjmtmfdfhco0ss/appbranding/b8vzglbg0vv63zxxmrcnu9ojgk0njmlr7yemqhxacs0/1033/bannerlogo?ts=636480836758767482",
+  "logoutUrl": null,
+  "name": "Chatbot5000",
+  "oauth2AllowImplicitFlow": false,
+  "oauth2Permissions": [],
+  "oauth2RequirePostResponse": false,
+  "passwordCredentials": [
+    {
+      "customKeyIdentifier": null,
+      "endDate": "2099-12-31T12:00:00Z",
+      "keyId": "56bc787c-9b14-4fe5-831b-062454f7b235",
+      "startDate": "2017-03-16T20:00:10.6062314Z",
+      "value": null,
+      "createdOn": "2017-03-16T20:00:12.2100452Z",
+      "hint": "FPZ"
+    }
+  ],
+  "preAuthorizedApplications": [],
+  "publisherDomain": null,
+  "replyUrls": [],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "00000003-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "e1fe6dd8-ba31-4d61-89e7-88639da4683d",
+          "type": "Scope"
+        }
+      ]
+    }
+  ],
+  "signInUrl": "https://www.sparkhound.com",
+  "tags": []
+}

@@ -1,0 +1,7 @@
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\bin\Release\NeuralNetwork.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\bin\Release\NeuralNetwork.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\bin\Release\TextProcessing.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\bin\Release\TextProcessing.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\obj\Release\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\obj\Release\NeuralNetwork.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork\obj\Release\NeuralNetwork.pdb

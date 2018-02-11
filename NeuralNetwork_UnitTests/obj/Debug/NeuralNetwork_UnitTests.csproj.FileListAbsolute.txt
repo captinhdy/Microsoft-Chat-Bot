@@ -1,0 +1,16 @@
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\NeuralNetwork_UnitTests.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\NeuralNetwork_UnitTests.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\NeuralNetwork.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\TextProcessing.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\NeuralNetwork.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\bin\Debug\TextProcessing.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\obj\Debug\NeuralNetwork_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\obj\Debug\NeuralNetwork_UnitTests.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\NeuralNetwork_UnitTests\obj\Debug\NeuralNetwork_UnitTests.pdb

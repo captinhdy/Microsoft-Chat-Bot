@@ -1,0 +1,5 @@
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\TextProcessing\bin\Release\TextProcessing.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\TextProcessing\bin\Release\TextProcessing.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\TextProcessing\obj\Release\TextProcessing.csprojResolveAssemblyReference.cache
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\TextProcessing\obj\Release\TextProcessing.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\TextProcessing\obj\Release\TextProcessing.pdb

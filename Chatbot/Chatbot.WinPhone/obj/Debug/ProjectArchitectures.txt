@@ -1,0 +1,2 @@
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot.WinPhone\Chatbot.WinPhone.csproj;neutral
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\Chatbot.csproj;neutral

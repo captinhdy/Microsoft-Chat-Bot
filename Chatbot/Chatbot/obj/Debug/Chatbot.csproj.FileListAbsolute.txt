@@ -1,0 +1,17 @@
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\obj\Debug\Chatbot.MainPage.xaml.g.cs
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\obj\Debug\Chatbot.App.xaml.g.cs
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Chatbot.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Core.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Platform.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Newtonsoft.Json.xml
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Core.pdb
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Core.xml
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\obj\Debug\Chatbot.dll
+c:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot\Chatbot\obj\Debug\Chatbot.pdb

@@ -1,0 +1,55 @@
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Bot Application1.dll.config
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Bot Application1.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Bot Application1.pdb
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Autofac.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Chronic.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Builder.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Connector.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Newtonsoft.Json.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Net.Http.Formatting.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Web.Http.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Web.Http.WebHost.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Autofac.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Builder.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Connector.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Newtonsoft.Json.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Net.Http.Formatting.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Web.Http.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\System.Web.Http.WebHost.xml
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\obj\Debug\Chatbot5000.csprojResolveAssemblyReference.cache
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\obj\Debug\Bot Application1.dll
+c:\users\ted.wagner\documents\visual studio 2015\Projects\Chatbot5000\Chatbot5000\obj\Debug\Bot Application1.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\NeuralNetwork.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\TextProcessing.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\NeuralNetwork.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\TextProcessing.pdb
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ted.wagner\Documents\Visual Studio 2015\Projects\Chatbot5000\Chatbot5000\bin\Microsoft.IdentityModel.Tokens.xml
